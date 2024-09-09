@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Dahlia",
+    "last_name": "Lafay",
+    "email": "dlafay0@wikimedia.org",
+    "gender": "Female",
+    "salary": 69000
+  },
+  {
+    "id": 2,
+    "first_name": "Euell",
+    "last_name": "Heyward",
+    "email": "eheyward1@dropbox.com",
+    "gender": "Male",
+    "salary": 89000
+  },
+  {
+    "id": 3,
+    "first_name": "Christie",
+    "last_name": "Shotter",
+    "email": "cshotter2@jiathis.com",
+    "gender": "Male",
+    "salary": 10000
+  },
+  {
+    "id": 4,
+    "first_name": "Suzann",
+    "last_name": "Rossborough",
+    "email": "srossborough3@ask.com",
+    "gender": "Female",
+    "salary": 94000
+  },
+  {
+    "id": 5,
+    "first_name": "Raviv",
+    "last_name": "Houseman",
+    "email": "rhouseman4@cnet.com",
+    "gender": "Male",
+    "salary": 57000
+  },
+  {
+    "id": 6,
+    "first_name": "Kandy",
+    "last_name": "Gaither",
+    "email": "kgaither5@ow.ly",
+    "gender": "Female",
+    "salary": 45000
+  },
+  {
+    "id": 7,
+    "first_name": "Ailene",
+    "last_name": "Bricket",
+    "email": "abricket6@netscape.com",
+    "gender": "Female",
+    "salary": 32000
+  },
+  {
+    "id": 8,
+    "first_name": "Harcourt",
+    "last_name": "Petracco",
+    "email": "hpetracco7@who.int",
+    "gender": "Male",
+    "salary": 83000
+  },
+  {
+    "id": 9,
+    "first_name": "Cicily",
+    "last_name": "Gueste",
+    "email": "cgueste8@techcrunch.com",
+    "gender": "Female",
+    "salary": 102000
+  },
+  {
+    "id": 10,
+    "first_name": "Luella",
+    "last_name": "Maestrini",
+    "email": "lmaestrini9@freewebs.com",
+    "gender": "Female",
+    "salary": 21000
+  }
+]
